@@ -117,11 +117,3 @@ final class Train {
    
 }
 }
-/*
-pune mum
-pune bhos 2000
-bhos mum 3000
-pune ravet 1000
-ravet mum 1000
-pune mum 500
-*/
